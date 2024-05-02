@@ -1,6 +1,6 @@
 # HR-Analytics-Dashboard---Power-BI
 
-[Click here to view the live Dashboard.](https://project.novypro.com/vORN8k)
+# [Click here to view the live Dashboard.](https://project.novypro.com/vORN8k)
 
 ![Slide1](https://github.com/abhishek-kotafactory/HR-Analytics-Dashboard---Power-BI/assets/160778673/53e245c5-8373-4282-94aa-95cb7e3bbe12)
 ![Slide2](https://github.com/abhishek-kotafactory/HR-Analytics-Dashboard---Power-BI/assets/160778673/2867c731-5daf-4baa-b18b-e4b2dfb0b889)
